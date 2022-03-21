@@ -9,7 +9,8 @@ Maria, chief data scientist for a city school district has tasked me with the an
 District Summary: 
 
 1. Falsified
-![false_district_summary](https://user-images.githubusercontent.com/99688417/159201903-62c97c41-4468-4aa7-9d90-63698f3ecab7.png)
+![false_summary](https://user-images.githubusercontent.com/99688417/159212242-bf40b025-2f81-4b94-b169-f5db1e55fcbf.png)
+
 
 
 2. Corrected 
@@ -18,30 +19,36 @@ District Summary:
 School Summary: 
 
 1. Falsified
-![false_school_summary](https://user-images.githubusercontent.com/99688417/159201911-602ae4f7-bca7-4d1c-9333-050a530512ea.png)
+
+![false_school](https://user-images.githubusercontent.com/99688417/159212251-7653db29-70f5-4031-9505-3ff74553193d.png)
+
 
 
 2. Corrected 
-![real_school](https://user-images.githubusercontent.com/99688417/159202507-685ccdfa-f54e-4ce2-a064-ace57f9fd7c7.png)
+![real_school](https://user-images.githubusercontent.com/99688417/159212333-1a7fdf21-7163-4d95-abcf-cdb3cc28c873.png)
+
+
 
 
 Math Scores
 
 1. Falsified
-![false_math](https://user-images.githubusercontent.com/99688417/159201926-39cad915-acf3-451a-92fb-2ea621b5b5cb.png)
+![false_math](https://user-images.githubusercontent.com/99688417/159212352-0f2cfa02-e90e-4b31-ac2e-06130e270271.png)
 
 
 2. Corrected 
-![Real_math](https://user-images.githubusercontent.com/99688417/159202549-680edab7-f978-461a-9313-435fec917cda.png)
+![real_math](https://user-images.githubusercontent.com/99688417/159212344-e6e53dc4-37b9-4645-b7b2-e3b4a954bb4c.png)
+
 
 Reading Scores
 
 1. Falsified
-![false reading](https://user-images.githubusercontent.com/99688417/159201931-247813e1-1c23-4875-bf1c-c3d504efdb71.png)
+![false_reading](https://user-images.githubusercontent.com/99688417/159212358-3f3bfad8-deed-4205-a443-b8f8bf76a695.png)
+
 
 
 2. Corrected 
-![real_reading](https://user-images.githubusercontent.com/99688417/159202555-fb71c305-3c71-4706-86d0-76da0912ff04.png)
+![real_reading](https://user-images.githubusercontent.com/99688417/159212346-69baa099-168b-4ddb-9145-6e8ee06f5503.png)
 
 
 Spending:
@@ -51,7 +58,8 @@ Spending:
 
 
 2. Corrected 
-![real_spending](https://user-images.githubusercontent.com/99688417/159202564-a9c9e9d0-cc7b-4ff5-8d44-230d97996d8e.png)
+![real_spending](https://user-images.githubusercontent.com/99688417/159212756-dc8fa6c9-cdbb-4dff-b3cc-000b242ae902.png)
+
 
 Size:
 
@@ -60,7 +68,8 @@ Size:
 
 
 2. Corrected 
-![real_size](https://user-images.githubusercontent.com/99688417/159202574-1d9fc65d-736b-4bf4-8972-7a5e6fbe8c35.png)
+![real_size](https://user-images.githubusercontent.com/99688417/159212763-77c6b548-88be-4dbd-8950-d42c16cf8083.png)
+
 
 Type:
 
@@ -72,4 +81,4 @@ Type:
 ![real_type](https://user-images.githubusercontent.com/99688417/159202581-bbc4281f-2cce-4155-b02f-ee14d5f16b57.png)
 
 ### Summary
-In summation, replacing the falsified scores with NaN for Thomas High had little to no impact on the overall scores of the districts. The outcomes of the analysis are almost identical when comparing the falsified and corrected pictures provided above. Although there was some impact on theh overall scores of Thomas High the changes are less than a percent and dont affect the data much at all.
+In summation, replacing the falsified scores with NaN for Thomas High had little to no impact on the overall scores of the districts. The outcomes of the analysis are almost identical when comparing the falsified and corrected calculations. The files attached display the small change in data, although there was some impact on theh overall scores of Thomas High the changes are less than a percent and dont affect the data much at all.
